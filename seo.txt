@@ -1,0 +1,4 @@
+1) coloque etiquetas keywords en todos los html
+palabras: reseñas, videojuegos, indies, games, reviews, guias, guides, noticas, news
+
+2) todas las paginas html poseen descriptions

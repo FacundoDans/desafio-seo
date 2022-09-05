@@ -1,0 +1,21 @@
+//$saludo: 35;
+
+//p {
+//    @if ($saludo < 50) {
+//        font-size: 35px;
+//    } @else{
+//        background-color: black;
+//        color: coral;
+//    }
+//}
+
+.parrafo{
+    @extend %estiloParrafo;
+    @include fontStyle (rgb(2, 0, 141));
+    
+}
+
+.section{
+    @extend %estiloParrafo;
+    @include fontStyle (rgb(111, 49, 209));
+}
